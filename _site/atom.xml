@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Stat 88</title>
+ <link href="http://prob140.org/atom.xml" rel="self"/>
+ <link href="http://prob140.org/"/>
+ <updated>2020-01-15T21:03:58+08:00</updated>
+ <id>http://prob140.org</id>
+ <author>
+   <name>Francie McQuarrie, Rohan Narain, Ashley Chien</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>

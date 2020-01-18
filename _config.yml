@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Stat 88'
+tagline:          'Probability and Mathematical Statistics for Data Science'
+description:      'Probability and Mathematical Statistics for Data Science <br /> Ani Adhikari <br />'
+url:              http://prob140.org
+baseurl:          /
+
+author:
+  name:           'Francie McQuarrie, Rohan Narain, Ashley Chien'
+  url:            http://prob140.org
+
+paginate:         5
+
+
+github:
+  repo:           https://github.com/poole/hyde
